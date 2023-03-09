@@ -1,6 +1,6 @@
 # Contributing
 
-Collaboration are welcome for each one of my **public** projects.\
+Collaboration are welcome for each one of my **public** projects.
 
 Before proceeding further, please read the [Code of Conduct](CODE_OF_CONDUCT.md).
 
